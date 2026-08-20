@@ -25,6 +25,9 @@ Meu objetivo com este portfólio é registrar projetos e atividades práticas qu
 ### [01 — Professional Statement](./01-professional-statement/)
 Declaração profissional desenvolvida durante minha formação em Cybersecurity, apresentando meus pontos fortes, valores e objetivos na área.
 
+### [02 — Internal Security Audit — Botium Toys](./02-security-audit/)
+Auditoria interna de segurança com avaliação de controles, análise de compliance, identificação de riscos e recomendações de melhoria.
+
 ---
 
 Este portfólio está em desenvolvimento e será atualizado conforme avanço nos estudos e concluo novas atividades práticas.
