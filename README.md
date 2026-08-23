@@ -28,6 +28,9 @@ Declaração profissional desenvolvida durante minha formação em Cybersecurity
 ### [02 — Internal Security Audit — Botium Toys](./02-security-audit/)
 Auditoria interna de segurança com avaliação de controles, análise de compliance, identificação de riscos e recomendações de melhoria.
 
+### [03 — Análise de tráfego DNS e ICMP](./03-dns-icmp-incident/)
+Análise acadêmica de registros do tcpdump para identificar uma falha de resolução DNS, interpretar mensagens ICMP e documentar possíveis causas do incidente.
+
 ---
 
 Este portfólio está em desenvolvimento e será atualizado conforme avanço nos estudos e concluo novas atividades práticas.
